@@ -1,0 +1,210 @@
+[
+    {
+      "id": 1,
+      "user": {
+          "name": "Leanne Graham",
+          "username": "Bret",
+          "image" : "https://placekitten.com/640/360"
+      },
+      "lastMessage": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, neque.",
+        "createdAt": "07:30"
+      },
+      "email": "Sincere@april.biz"
+    },
+    {
+      "id": 2,
+      "user": {
+          "name": "Ervin Howell",
+          "username": "Antonette",
+          "image" : "https://baconmockup.com/640/360"
+      },
+      "lastMessage": {
+        "text": "ok",
+        "createdAt": "09:30"
+      },
+      "email": "Shanna@melissa.tv"
+    },
+    {
+      "id": 3,
+      "user": {
+          "name": "Clementine Bauch",
+          "username": "Samantha",
+          "image" : "https://placekitten.com/640/360"
+      },
+      "lastMessage": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, neque. Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, neque.",
+        "createdAt": "10:30"
+      },
+      "email": "Nathan@yesenia.net"
+    },
+    {
+      "id": 4,
+      "user": {
+          "name": "Patricia Lebsack",
+          "username": "Karianne",
+          "image" : "https://baconmockup.com/640/360"
+      },
+      "lastMessage": {
+        "text": "Lorem ipsum dolor",
+        "createdAt": "12:30"
+      },
+      "email": "Julianne.OConner@kory.org"
+    },
+    {
+      "id": 5,
+      "user": {
+          "name": "Chelsey Dietrich",
+          "username": "Kamren",
+          "image" : "https://placebeard.it/640x360"
+      },
+      "lastMessage": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, neque. Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, neque.",
+        "createdAt": "10:30"
+      },
+      "email": "Lucio_Hettinger@annie.ca"
+    },
+    {
+      "id": 6,
+      "user": {
+          "name": "Mrs. Dennis Schulist",
+          "username": "Leopoldo_Corkery",
+          "image" : "https://baconmockup.com/640/360"
+      },
+      "lastMessage": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "createdAt": "22:22"
+      },
+      "email": "Karley_Dach@jasper.info"
+    },
+    {
+      "id": 7,
+      "user": {
+          "name": "Kurtis Weissnat",
+          "username": "Elwyn.Skiles",
+          "image" : "https://placekitten.com/640/360"
+      },
+      "lastMessage": {
+        "text": "yes",
+        "createdAt": "11:30"
+      },
+      "email": "Telly.Hoeger@billy.biz"
+    },
+    {
+      "id": 8,
+      "user": {
+          "name": "Nicholas Runolfsdottir V",
+          "username": "Maxime_Nienow",
+          "image" : "https://placekitten.com/640/360"
+      },
+      "lastMessage": {
+        "text": "flemme",
+        "createdAt": "10:30"
+      },
+      "email": "Sherwood@rosamond.me"
+    },
+    {
+      "id": 9,
+      "user": {
+          "name": "Glenna Reichert",
+          "username": "Delphine",
+          "image" : "https://placekitten.com/640/360"
+      },
+      "lastMessage": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, neque.",
+        "createdAt": "21:30"
+      },
+      "email": "Chaim_McDermott@dana.io"
+    },
+    {
+      "id": 10,
+      "user": {
+          "name": "Clementina DuBuque",
+          "username": "Moriah.Stanton",
+          "image" : "https://baconmockup.com/640/360"
+      },
+      "lastMessage": {
+        "text": "oki doki",
+        "createdAt": "10:30"
+      },
+      "email": "Rey.Padberg@karina.biz"
+    },
+    {
+      "id": 11,
+      "user": {
+          "name": "Marina DuBuque",
+          "username": "Moriah.Stanton",
+          "image" : "https://baconmockup.com/640/360"
+      },
+      "lastMessage": {
+        "text": "oki pas de souci",
+        "createdAt": "11:30"
+      },
+      "email": "Rey.Padberg@karina.biz"
+    },
+    {
+      "id": 12,
+      "user": {
+          "name": "Alex DuBuque",
+          "username": "Moriah.Stanton",
+          "image" : "https://baconmockup.com/640/360"
+      },
+      "lastMessage": {
+        "text": "oki merci à tte",
+        "createdAt": "12:30"
+      },
+      "email": "Rey.Padberg@karina.biz"
+    },
+    {
+      "id": 13,
+      "user": {
+          "name": "Clementina DuBuque",
+          "username": "Moriah.Stanton",
+          "image" : "https://baconmockup.com/640/360"
+      },
+      "lastMessage": {
+        "text": "oki doki",
+        "createdAt": "13:30"
+      },
+      "email": "Rey.Padberg@karina.biz"
+    },
+    {
+      "id": 14,
+      "user": {
+          "name": "Clementina DuBuque",
+          "username": "Moriah.Stanton",
+          "image" : "https://baconmockup.com/640/360"
+      },
+      "lastMessage": {
+        "text": "oki doki",
+        "createdAt": "14:30"
+      },
+      "email": "Rey.Padberg@karina.biz"
+    },
+    {
+      "id": 15,
+      "user": {
+          "name": "Clementina DuBuque",
+          "username": "Moriah.Stanton",
+          "image" : "https://baconmockup.com/640/360"
+      },
+      "lastMessage": {
+        "text": "oki doki",
+        "createdAt": "15:30"
+      },
+      "email": "Rey.Padberg@karina.biz"
+    },
+    {
+      "id": 16,
+      "user": {
+          "name": "Clementina DuBuque",
+          "username": "Moriah.Stanton",
+          "image" : "https://baconmockup.com/640/360"
+      },
+      "lastMessage": {
+        "text": "oki louki",
+        "createdAt": "16:30"
+      },
+      "email": "Rey.Padberg@karina.biz"
+    }
+  ]
