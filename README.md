@@ -1,4 +1,4 @@
-Projet Clone Whatsapp  
+# Projet Clone Whatsapp  
 Ce projet codé en React Native + Expo est un clone partiel de l'application Whatsapp (version Android)  
 Notions abordées :   
 * Création de composants en React Native
