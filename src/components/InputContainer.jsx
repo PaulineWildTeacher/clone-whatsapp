@@ -21,10 +21,8 @@ export function InputContainer() {
                     placeholder="Message" 
                     value={newMessage}
                     onChangeText={setNewMessage}/>
-                    <View style={styles.iconsContainer}>
-                        <Entypo name="attachment" size={24} color="black" style={styles.icon} />
-                        <FontAwesome name="camera" size={24} color="black" style={styles.icon} />
-                    </View>
+                    <Entypo name="attachment" size={24} color="black" style={styles.icon} />
+                    <FontAwesome name="camera" size={24} color="black" style={styles.icon} />
                 </View>
             </View>
             <TouchableOpacity style={styles.sendContainer} onPress={onSendMessage}>
@@ -43,8 +41,8 @@ const styles = StyleSheet.create({
     textInputContainer: {
         flex: 1,
         flexDirection: 'row',
-        backgroundColor: 'whitesmoke',
         alignItems: 'center',
+        backgroundColor: 'whitesmoke',
         borderRadius: 30,
         padding: 5,
         shadowColor: "#000",
@@ -54,9 +52,11 @@ const styles = StyleSheet.create({
         },
         shadowOpacity: 0.18,
         shadowRadius: 1.00,
-
         elevation: 1,
     },
+    textInput: {
+        flex: 1
+    },  
     inpuAndIconsContainer: {
         flex: 1,
         flexDirection: 'row',

@@ -23,8 +23,5 @@ export function ChatScreen() {
 const styles = StyleSheet.create({
     background: {
         flex: 1
-    },
-    list: {
-        flex: 1
     }
 })
